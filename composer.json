@@ -1,0 +1,16 @@
+{
+    "name": "jpd/fitbug",
+    "authors": [
+        {
+            "name": "John-Paul Drawneek",
+            "email": "jpd@drawneek.co.uk"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Fitbug\\": "src/",
+            "Fitbug\\Tests\\": "tests/"
+        }
+    }
+}
